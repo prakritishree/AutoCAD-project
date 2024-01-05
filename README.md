@@ -16,4 +16,4 @@ Use standard size for tread and riser for Staircase.
 
 Below is the Screenshot of the Project:
 <br>
-<img src="my autoCAD project">
+<img src="my autoCAD project.PNG">
